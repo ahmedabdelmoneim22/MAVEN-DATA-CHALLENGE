@@ -10,3 +10,6 @@ MAVEN DATA CHALLENGE
 #https://www.youtube.com/watch?v=tU9F8c3ovj8&list=PLGAnLqlBhx1HR3ZdSIyIWo7lkD1Fdrokj&index=8
 #https://www.youtube.com/watch?v=nUFLTpb_j4s&list=PLGAnLqlBhx1HR3ZdSIyIWo7lkD1Fdrokj&index=26
 #------------------------------------------------------------------------------------------------------
+# I collaborated on creating detailed financial plans, including budgets,
+# forecasts, and predictive analysis, to support informed decision-making.
+#------------------------------------------------------------------------------------------------------
